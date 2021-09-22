@@ -1,6 +1,7 @@
 # Pollination Dragonfly Energy
 
-A plugin that adds urban scale energy simulation functions to Pollination.
+A plugin that adds large-scale energy simulation functions to Pollination, including
+scales from large buildings to entire urban districts.
 
 ## Sources
 
