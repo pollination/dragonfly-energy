@@ -1,2 +1,2 @@
 pollination-dsl==0.12.5
-dragonfly-energy==1.21.27
+dragonfly-energy==1.21.28
